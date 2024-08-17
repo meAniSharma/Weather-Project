@@ -34,7 +34,7 @@ function App() {
   },[])
 
 // Gives the input. whatever i type in the search city thing shows on console 
-
+// hello
 // looks funny haha
 
   const handleInputChange = (event) => {
